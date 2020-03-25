@@ -1,0 +1,2 @@
+rootProject.name='Webpdecodetest'
+include ':app'
